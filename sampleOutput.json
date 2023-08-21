@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "The Tribune India"
+            },
+            "author": "The Tribune India",
+            "title": "Family members meet arrested ‘Waris Punjab De’ chief Amritpal, his aides in Assam’s Dibrugarh jail - The Tribune India",
+            "description": null,
+            "url": "https://www.tribuneindia.com/news/punjab/family-members-meet-arrested-waris-punjab-de-chief-amritpal-his-aides-in-assams-dibrugarh-jail-501543",
+            "urlToImage": null,
+            "publishedAt": "2023-04-27T15:52:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": "Shashank Kishore",
+            "title": "Match Preview - Punjab Kings vs Super Giants, Indian Premier League 2023, 38th Match - ESPNcricinfo",
+            "description": "The Super Giants captain will welcome the better batting conditions in Mohali after a botched chase in the last game",
+            "url": "https://www.espncricinfo.com/series/indian-premier-league-2023-1345038/punjab-kings-vs-lucknow-super-giants-38th-match-1359512/match-preview",
+            "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/358100/358145.6.jpg",
+            "publishedAt": "2023-04-27T15:25:00Z",
+            "content": "PreviewThe Super Giants captain will welcome the better batting conditions in Mohali after a botched chase in the last game"
+        }
+    ]
+}
